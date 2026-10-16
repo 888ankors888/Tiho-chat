@@ -1,2 +1,2 @@
-# ГГ чат
+# Тихо чат
 Personal website
